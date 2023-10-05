@@ -1,6 +1,6 @@
 Description: >-
   This AWS Cloudformation template deploys a 3-tier architecture in the
-  us-east-1 region or us-west-2
+  us-east-1, us-east-2, us-west-1, us-west-2
 Parameters:
   EnvironmentName:
     Description: An environment name that is prefixed to resource names
